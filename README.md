@@ -26,7 +26,7 @@ This project is a web application that allows users to create, manage, and delet
    cd your-repo-name
 
 ## Usage
-Creating a Blog: Navigate to the "Create Blog" page, fill in the required fields, and submit to add a new blog post.
-Managing a Blog: Edit or update any blog by accessing it through the "Manage Blog" page.
-Deleting a Blog: Permanently remove any blog post using the "Delete" option.
+- **Creating a Blog**: Navigate to the "Create Blog" page, fill in the required fields, and submit to add a new blog post.
+- **Managing a Blog**: Edit or update any blog by accessing it through the "Manage Blog" page.
+- **Deleting a Blog**: Permanently remove any blog post using the "Delete" option.
 
