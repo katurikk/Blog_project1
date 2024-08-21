@@ -23,9 +23,9 @@ This project is a web application that allows users to create, manage, and delet
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
 2.Navigate to the project dir:
-cd your-repo-name
+   cd your-repo-name
 
-##Usage
+## Usage
 Creating a Blog: Navigate to the "Create Blog" page, fill in the required fields, and submit to add a new blog post.
 Managing a Blog: Edit or update any blog by accessing it through the "Manage Blog" page.
 Deleting a Blog: Permanently remove any blog post using the "Delete" option.
